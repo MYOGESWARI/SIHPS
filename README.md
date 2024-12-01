@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01/12/2024
+## Register Number:24011145
+## Name:M YOGESWARI
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,31 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
-
+ 1. It is a part of a comprehensive project that works within the campus  and it  requires  coordination and  compatibility  with student information system as an infrastructure for the current system.
+ 2. It  chooses  three  universities,  one  of  them  is nongovernmental and two others are governmental, in order to get a real choice for the community of the study. 
+ 3. It adopts the concept of strategic planning and SWOT as a tool  to  analyse  the  internal  and  external  factors  in  the environment under study. 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](Alumni-1.png)
 
 ## Use Cases
-
+![alt text](SIH.jpg)
 
 ## Technology Stack
+React.js
 
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
